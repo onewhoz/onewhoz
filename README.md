@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @onewhoz
-- 👀 I’m interested in Software Development
+- 👋 Hi, I’m @onewhoz - Maksym Dovhopolyi
+- 👀 I’m interested in Software Development and Game Development
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me maximus200101@gmail.com
+- 📫 How to reach me - maximus200101@gmail.com
 
-<!---
-onewhoz/onewhoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Have a great time exploring my repositories :)
